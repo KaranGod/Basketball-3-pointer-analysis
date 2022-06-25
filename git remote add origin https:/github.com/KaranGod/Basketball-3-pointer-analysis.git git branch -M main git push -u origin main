@@ -1,0 +1,3 @@
+git remote add origin https://github.com/KaranGod/Basketball-3-pointer-analysis.git
+git branch -M main
+git push -u origin main
