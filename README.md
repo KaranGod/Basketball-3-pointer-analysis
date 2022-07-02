@@ -14,3 +14,11 @@ I use these statistics to rank 3-point shooters throughout NBA History. Data Wra
 # Reference Links
 
 https://www.basketball-reference.com/leagues/NBA_stats_per_game.html
+
+https://www.basketball-reference.com/leagues/NBA_2018_totals.html
+
+https://www.basketball-reference.com/leagues/NBA_2019_totals.html
+
+https://www.basketball-reference.com/leagues/NBA_2020_totals.html
+
+https://www.basketball-reference.com/leagues/NBA_2021_totals.html
