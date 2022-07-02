@@ -13,6 +13,4 @@ I use these statistics to rank 3-point shooters throughout NBA History. Data Wra
 
 # Reference Links
 
-https://www.basketball-reference.com/
-
-https://towardsdatascience.com/the-3-point-statistic-to-rule-them-all-12ac018a955a
+https://www.basketball-reference.com/leagues/NBA_stats_per_game.html
